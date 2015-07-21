@@ -1,0 +1,16 @@
+{
+    "name": "Catho",
+    "authors": [
+        {
+            "name": "Catho"
+        }
+    ],
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-4": {
+            "Contatos\\": "src/"
+        }
+    }
+}
